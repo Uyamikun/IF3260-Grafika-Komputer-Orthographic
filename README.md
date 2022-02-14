@@ -1,1 +1,1 @@
-# -Uyamikun-IF3260-Grafika-Komputer-Orthographic
+IF3260-Grafika-Komputer-Orthographic
